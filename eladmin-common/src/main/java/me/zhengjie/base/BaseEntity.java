@@ -81,5 +81,6 @@ public class BaseEntity implements Serializable {
             builder.append("toString builder encounter an error");
         }
         return builder.toString();
+
     }
 }
