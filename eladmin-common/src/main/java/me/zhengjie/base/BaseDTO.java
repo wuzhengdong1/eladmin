@@ -37,5 +37,4 @@ public class BaseDTO  implements Serializable {
         }
         return builder.toString();
     }
-
 }
